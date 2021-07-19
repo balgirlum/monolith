@@ -21,3 +21,5 @@ http PATCH localhost:8088/deliveries/1 deliveryState=DeliveryCompleted
 http PATCH localhost:8088/orders/1 state=OrderCancelled
 
 -- balgirlum 업데이트 테스트
+
+-- balgirlum 업데이트 테스트2
